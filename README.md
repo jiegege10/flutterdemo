@@ -5,8 +5,8 @@
 >>>上拉加载，下拉刷新的列表  
 >>>菜单栏  
 >>>顶部渐变  
->>> swiper使用
->>> toast使用
->>> screenutil使用
->>> shared_preferences使用
+>>>swiper使用
+>>>toast使用
+>>>screenutil使用
+>>>shared_preferences使用
 
