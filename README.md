@@ -10,3 +10,9 @@
 >>>screenutil使用
 >>>shared_preferences使用
 
+效果图
+![Image text](https://raw.githubusercontent.com/jiegege10/flutterdemo/master/images/1.png)
+![Image text](https://raw.githubusercontent.com/jiegege10/flutterdemo/master/images/2.png)
+![Image text](https://raw.githubusercontent.com/jiegege10/flutterdemo/master/images/3.png)
+![Image text](https://raw.githubusercontent.com/jiegege10/flutterdemo/master/images/4.png)
+![Image text](https://raw.githubusercontent.com/jiegege10/flutterdemo/master/images/5.png)
